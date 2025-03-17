@@ -70,4 +70,4 @@ Sua tarefa é criar uma função que receba um nome e diga quantas letras esse n
 
 ---
 
-Esses desafios são ótimos para consolidar os conceitos de programação em Python e ajudar a melhorar suas habilidades de lógica e estruturação de código. Boa sorte na resolução!
+
